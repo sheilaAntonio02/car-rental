@@ -9,9 +9,9 @@
 
         <div class="flex justify-end pr-4 sm:pr-5 md:pr-1">
             <div
-                class="w-16 sm:w-20 md:w-24 h-40 sm:h-35 md:h-40 bg-white/30 backdrop-blur-lg rounded-b-full absolute px-2 sm:px-3 flex flex-col items-center">
+                class="w-16 sm:w-20 md:w-24 h-20 sm:h-35 md:h-40 lg:h-40 bg-white/30 backdrop-blur-lg rounded-b-full absolute px-2 sm:px-3 flex flex-col items-center">
                 <div
-                    class="w-full relative rounded-full bg-orange-800 px-2 sm:px-3 py-4 sm:py-6 md:py-4 mt-8 sm:mt-12 md:mt-16 cursor-pointer hover:bg-orange-700 transition-colors shadow-md">
+                    class="w-full relative rounded-full bg-orange-800 px-2 sm:px-3 py-2 sm:py-6 md:py-4 lg:py-4 mt-6 sm:mt-12 md:mt-16 lg:mt-18 cursor-pointer hover:bg-orange-700 transition-colors shadow-md">
                     <p class="text-white font-bold text-[10px] sm:text-xs md:text-sm text-center tracking-wide">BOOK NOW
                     </p>
                 </div>
